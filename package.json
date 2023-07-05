@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "vite": "^4.3.9"
+    "create-react-app": "^5.0.1"
   }
 }
